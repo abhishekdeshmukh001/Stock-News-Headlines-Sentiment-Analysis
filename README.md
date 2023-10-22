@@ -43,19 +43,19 @@ Evaluated model performance using the following metrics:
 
 ---
 
-## Visualizations
+## Final Screenshots
 
-- ***WordCloud for Up_Words***
+- ***Home Page***
 
-![App Screenshot](https://github.com/abhishekdeshmukh001/Stock-News-Headlines-Sentiment-Analysis/blob/main/WordCloud_UpWords.png?raw=true)
+![App Screenshot](https://github.com/abhishekdeshmukh001/Stock-News-Headlines-Sentiment-Analysis/blob/main/HomePage.png?raw=true)
 
-- ***WordCloud for Down_Words***
+- ***Enter the News***
 
-![App Screenshot](https://github.com/abhishekdeshmukh001/Stock-News-Headlines-Sentiment-Analysis/blob/main/WordCloud_DownWords.png?raw=true)
+![App Screenshot](https://github.com/abhishekdeshmukh001/Stock-News-Headlines-Sentiment-Analysis/blob/main/Type_Input.png?raw=true)
 
-- ***Confusion Matrix for Decision Tree***
+- ***Predicted Output***
 
-![App Screenshot](https://github.com/abhishekdeshmukh001/Stock-News-Headlines-Sentiment-Analysis/blob/main/CM_Decision%20Tree.png?raw=true)
+![App Screenshot](https://github.com/abhishekdeshmukh001/Stock-News-Headlines-Sentiment-Analysis/blob/main/Predicted_Output.png?raw=true)
 
 
 ## 🔗 Link
